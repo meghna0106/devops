@@ -1,5 +1,6 @@
 <?php
 ob_start();
+// added test file
 ini_set('date.timezone','Asia/Manila');
 date_default_timezone_set('Asia/Manila');
 session_start();
