@@ -1,6 +1,6 @@
 <?php
 ob_start();
-// added test file
+// added test file for git status check
 ini_set('date.timezone','Asia/Manila');
 date_default_timezone_set('Asia/Manila');
 session_start();
